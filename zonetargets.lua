@@ -72,6 +72,7 @@ function unitscan_zone_targets()
         t["Emeraldon Boughguard"] = true
         t["Emeraldon Oracle"] = true
         t["Emeraldon Tree Warder"] = true
+				t["Grommash Hellscream"] = true
         t["Lady Vespia"] = true
         t["Mist Howler"] = true
         t["Mugglefin"] = true
