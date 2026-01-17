@@ -453,6 +453,9 @@ function unitscan_zone_targets()
         t["Snagglespear"] = true
         t["The Rake"] = true
 
+    elseif zone == "Northwind" then
+        t["Dul Wolfsnarl"] = true
+
     elseif zone == "Orgrimmar" then
         t["Spectral Stalker"] = true        
 
