@@ -819,6 +819,7 @@ function unitscan_zone_targets()
         t["Arikara"] = true
         t["Death's Head Cultist"] = true
         t["Enraged Panther"] = true
+        t["Galak Messenger"] = true
         t["Gibblesnik"] = true
         t["Harb Foulmountain"] = true
         t["Heartrazor"] = true
@@ -996,3 +997,4 @@ function unitscan_zone_targets()
 
     end
 end
+
