@@ -1,23 +1,21 @@
 
 
-# UnitScan-Turtle (Hardcore Version)
+# UnitScan-Turtle 
 
 ## Description
-This fork extends [unitscan-turtle](https://github.com/GryllsAddons/unitscan-turtle) by provinding a prepopulated list of  dangerous elite mobs, rares, and other units. This version is especially useful if you're playing Turtle WoW's hardcore mode.
+This fork extends [unitscan-turtle](https://github.com/GryllsAddons/unitscan-turtle) by provinding a prepopulated list of  rares, and world boss. 
 
 ## Download
-If using the launcher use this url: https://github.com/RetroCro/unitscan-turtle-hc.git
+If using the launcher use this url: [https://github.com/RetroCro/unitscan-turtle.git](https://github.com/Bestoriop/unitscan-turtle/tree/master)
 
-Download: [https://github.com/RetroCro/unitscan-turtle-hc/archive/refs/heads/master.zip](https://github.com/RetroCro/unitscan-turtle-hc/archive/refs/heads/master.zip)
-
-Copy folder to your Turtle WoW Addons folder ex: twmoa_1171\Interface\AddOns\unitscan-turtle-hc
+Copy folder to your Turtle WoW Addons folder ex: twmoa_1171\Interface\AddOns\unitscan-turtle
 
 Path should look like this:
 ```
 ....\TWMOA_1171\
 ├───Interface\
 │   └───AddOns\
-│       ├───unitscan-turtle-hc\
+│       ├───unitscan-turtle\
 │       │       Event_wardrum_ogre.ogg
 │       │       gruntling_horn_bb.ogg
 │       │       README.md
@@ -25,7 +23,7 @@ Path should look like this:
 │       │       UI-Achievement-Alert-Glow.blp
 │       │       UI-Achievement-Parchment-Horizontal.blp
 │       │       UI-Achievement-Title.blp
-│       │       unitscan-turtle-hc.toc
+│       │       unitscan-turtle.toc
 │       │       unitscan.lua
 │       │       zonetargets.lua
 ```
